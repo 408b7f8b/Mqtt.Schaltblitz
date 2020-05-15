@@ -1,0 +1,10 @@
+﻿{
+    "Broker": "127.0.0.1",
+    "Port": 1883,
+    "ClientId": "schaltblitz",
+    "Topic": "Motordrehzahl",
+    "Grenze": [ 6100.0, 6400.0, 6700.0 ],
+    "Farbe": [ "Yellow", "Orange", "Red" ],
+    "ledCount": 7,
+    "Pin": 10
+}
